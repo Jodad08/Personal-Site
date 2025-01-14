@@ -1,0 +1,7 @@
+[module]
+  [module.hugoVersion]
+    min = "0.115.4"
+[params]
+email="your@email.com"
+dateform="2025-01-14"
+github = "https://github.com/jodad08"
